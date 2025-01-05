@@ -160,5 +160,5 @@ Some common Vagrant commands:
 
 - <https://www.vmware.com/products/fusion.html>
 - <https://www.vagrantup.com/>
-- <https://www.hashicorp.com/blog/vagrant-vmware-integration>
+- <https://portal.cloud.hashicorp.com/vagrant/discover>
 
